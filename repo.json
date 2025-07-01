@@ -1,0 +1,15 @@
+[{
+  "Name": "clock",
+  "Description": "Add time and date info to the statusline",
+  "Website": "https://github.com/JuggleJungle/clock",
+  "Tags": ["clock", "date", "status"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/JuggleJungle/clock/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=1.0.3"
+      }
+    }
+  ]
+}]
